@@ -1,6 +1,6 @@
 # Hola, Soy Ing. Raul Encinas Mendoza 👋
 
-### 🚀 Senior Tech Lead | Magento Cloud & PHP Architect | AI-Driven Developer
+### 🚀 Senior Tech Lead | Magento Cloud & PHP | AI-Driven Developer
 Ingeniero de Sistemas con más de 12 años de experiencia transformando el eCommerce mediante arquitecturas robustas y escalables. Especialista en el ecosistema **Magento**, **PHP avanzado** y arquitecturas modernas enfocadas en la eficiencia mediante **IA**.
 
 ---
